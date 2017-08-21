@@ -23,3 +23,6 @@ social:
 - {icon: 'envelope', link: 'mailto:scanleo@me.com'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
+
+# Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
+permalink: pretty
