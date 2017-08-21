@@ -21,7 +21,7 @@ menu:
 social:
 - {icon: 'twitter', link: 'https://twitter.com/elchekchek'}
 - {icon: 'envelope', link: 'mailto:scanleo@me.com'}
-- {icon: 'linked-in', link: 'https://www.linkedin.com/in/sergio-h-cantu-98331635'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/sergio-h-cantu-98331635'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 
