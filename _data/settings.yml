@@ -1,4 +1,4 @@
-title:  "Millennial"
+title:  "Atomos"
 tagline: "a Jekyll theme"
 description:
 author:
@@ -11,18 +11,15 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 menu:
-- {name: 'Interesting Facts', file: 'facts.html'}
-- {name: 'Learning Resources', file: 'resources.html'}
-- {name: 'Sample Posts', file: 'sample-posts.html'}
-- {name: 'Documentation', file: 'documentation.html'}
-- {name: 'About', file: 'about.html'}
+- {name: 'About me', file: 'facts.html'}
+- {name: 'Research', file: 'resources.html'}
+- {name: 'Grad Life', file: 'sample-posts.html'}
+- {name: 'Projects', file: 'documentation.html'}
+- {name: 'Outreach', file: 'about.html'}
 - {name: 'Contact', file: 'contact.html'}
 
 social:
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'twitter', link: 'https://twitter.com/elchekchek'}
+- {icon: 'envelope', link: 'mailto:scanleo@me.com'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
