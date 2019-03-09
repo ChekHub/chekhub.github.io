@@ -81,8 +81,8 @@ Main components
   position: absolute;
   top: 0;
   left: 0;
-  width: 100px;
-  height: 100px;
+  width: 55px;
+  height: 55px;
   border-radius: 50%;
   background:#333;
 }
@@ -98,7 +98,7 @@ Main components
 }
 .cd-timeline-img i {
   display: block;
-  font-size:23px;
+  font-size:25px;
   position: relative;
   left: 50%;
   top: 50%;

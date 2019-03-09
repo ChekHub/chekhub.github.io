@@ -144,10 +144,12 @@ $("#home").backstretch([
     $("#interests").owlCarousel({
       navigation : false,
       navigationText: ["<i class='icon kurr-left-open-big'></i>", "<i class='icon kurr-right-open-big'></i>"],
-      slideSpeed : 300,
-      pagination: true,
-      paginationSpeed : 400,
-      autoPlay: false,
+      slideSpeed : 150,
+      rewind : false,
+      /*pagination: true,*/
+      paginationSpeed : 600,
+      scrollPerPage: true,
+      autoPlay: true,
       items : 3, //10 items above 1000px browser width
       itemsDesktop : [1000,4], //5 items between 1000px and 901px
       itemsDesktopSmall : [900,2], // betweem 900px and 601px
