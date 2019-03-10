@@ -125,9 +125,11 @@ jQuery(document).ready(function ($) {
 $("#home").backstretch([
     "img/img3.jpg",
     "img/img2.jpg",
-    "img/img4.jpg",
     "img/img7.jpg",
-	  "img/img1.jpg"
+    "img/img4.jpg",
+	  "img/img8.jpg",
+    "img/img1.jpg",
+    "img/img9.jpg"
     ], {
     	fade: 1000,
         duration: 3500
