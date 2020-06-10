@@ -103,7 +103,7 @@ section#home{
 }
 section#experience{
 	border-bottom:none;
-	background:url(../img/dark_blue_geom.jpg) repeat top left;
+	background:#0052A2; /* here to 333 url(../img/dark_blue_geom.jpg) repeat top left; */
 }
 section#skills{
 	background:url(../img/dark_geometric.png) repeat top left;

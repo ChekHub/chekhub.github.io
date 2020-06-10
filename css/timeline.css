@@ -83,7 +83,8 @@ Main components
   left: 0;
   width: 55px;
   height: 55px;
-  border-radius: 50%;
+  border: 2px solid #fff;
+  border-radius: 100%;
   background:#333;
 }
 .cd-timeline-img img {
@@ -196,7 +197,7 @@ Main components
 .cd-timeline-content {
   position: relative;
   margin-left: 60px;
-  background: #333;
+  background: #333; /* here to 333
   /*border-radius: 0.25em;*/
   padding: 1em;
 
